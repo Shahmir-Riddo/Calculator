@@ -1,2 +1,2 @@
-# GUI--Calculator
-Python GUI Calculator
+# Calculator
+A Simple Calculator Application for Windows based on tkinter python.
